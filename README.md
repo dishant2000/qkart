@@ -41,3 +41,11 @@ Ecommerce website built on MERN stack.
 
 3. **Access the Application:**
    - Open your web browser and navigate to the specified URL (e.g., `http://localhost:your-frontend-port`).
+  
+## Screenshots
+![login](screenshots/login.png)
+![register](screenshots/register.png)
+![products](screenshots/product.png)
+![cart](screenshots/kart.png)
+![address](screenshots/address.png)
+![success](screenshots/success.png)
