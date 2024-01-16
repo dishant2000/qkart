@@ -1,6 +1,6 @@
 # Qkart
 
-## An E-commerce website
+## An E-commerce website (screen shots included below)
 
 Ecommerce website built on MERN stack.
 
